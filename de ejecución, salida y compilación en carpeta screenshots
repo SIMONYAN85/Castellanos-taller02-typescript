@@ -1,0 +1,53 @@
+[33mcommit 7191d2e340b23df10997979f3d1de23965f781bd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Dayan <dnan@gmail.com>
+Date:   Sun Oct 5 21:04:48 2025 -0500
+
+    feat: EmployeeService con inyección de ApiService y carga dinámica de empleados
+
+[33mcommit 3e0da1afa3991fc06887498089c7e0d7f6c34603[m
+Author: Dayan <dnan@gmail.com>
+Date:   Sun Oct 5 20:59:03 2025 -0500
+
+    feat: servicio ApiService para consumir usuarios desde API externa
+
+[33mcommit 58ed8564f5c066d511d4f8077aaaa812f03e839a[m
+Author: Dayan <dnan@gmail.com>
+Date:   Sun Oct 5 20:50:50 2025 -0500
+
+    feat: implementación de clases Developer y Manager, estructura base completa
+
+[33mcommit 0e9700722d8935c21bcdaa3b11c0d0e1d5975b83[m
+Author: Dayan <dnan@gmail.com>
+Date:   Sun Oct 5 20:41:38 2025 -0500
+
+    feat: clases Developer y Manager implementadas
+
+[33mcommit f3bee20b213ee156c4543a54fe56c6e1e7ffeb36[m
+Author: Dayan <dnan@gmail.com>
+Date:   Sun Oct 5 20:26:56 2025 -0500
+
+    feat: Lista de empleados y visualización en consola
+
+[33mcommit e3c65e421c32284f74128d88b200aebd1cd80c2d[m
+Author: Dayan <dnan@gmail.com>
+Date:   Sun Oct 5 20:04:35 2025 -0500
+
+    feat: ejecución del sistema de empleados con instancia de BaseEmployee
+
+[33mcommit 5cdfc1fe18f7d23759e87eb681dbf644208a9c47[m
+Author: Dayan <dnan@gmail.com>
+Date:   Sun Oct 5 19:53:37 2025 -0500
+
+    feat: clase BaseEmployee con constructor y método getSummary
+
+[33mcommit a62055998c1ac137f2ddbe313a7baa8f040ea735[m
+Author: Dayan <dnan@gmail.com>
+Date:   Sun Oct 5 19:42:05 2025 -0500
+
+    feat: definición de interfaces y enum para el sistema de empleados
+
+[33mcommit 0d107d29f464a3f75b50b57d82d50ff317094af1[m
+Author: Dayan <dnan@gmail.com>
+Date:   Sun Oct 5 19:25:13 2025 -0500
+
+    init: estructura base del proyecto con TypeScript y configuración de scripts

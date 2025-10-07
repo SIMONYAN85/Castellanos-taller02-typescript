@@ -30,7 +30,7 @@ README.md
 Instalación
 
 1. Clona el repositorio:
-   git clone https://github.com/SIMONYAN85/Taller-2-TypeScript-Fundamentals.git
+   git clone https://github.com/SIMONYAN85/Castellanos-taller02-typescript.git
    cd taller02-typescript
 
 2. Instala dependencias:
